@@ -1,6 +1,8 @@
 from Tkinter import*
 import model
 
+# I am helping
+
 class CC:
 	def __init__(self):
 		self.ing_list = {}
